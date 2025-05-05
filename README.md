@@ -1,4 +1,5 @@
-# driver-location-service
+# Driver Location Service
+
 ## Design Doc 
 https://docs.google.com/document/d/1BS_wAvXEq5U9X2N0A8F5IcN4wPj_l8pE512IKlzITnQ/edit?tab=t.0
 
